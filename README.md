@@ -1,6 +1,5 @@
 # ToDoList
 ポートフォリオ
-。
 <br>（使用技術）</br>
 <br>・Docker</br>
 <br>・MySQL</br>
